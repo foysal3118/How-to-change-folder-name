@@ -1,4 +1,4 @@
-This program need the specific path for the folder That you want to chnage name. 
+This program need the specific path for the folder That you want to change name. 
 please carefully copy your targeted file path as shown below.
 
 To run the program use following command:
